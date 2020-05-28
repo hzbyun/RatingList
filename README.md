@@ -1,2 +1,0 @@
-# RatingList
-Created with CodeSandbox
